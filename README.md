@@ -5,3 +5,4 @@ It includes a prototype to visualize data in 3d plots and 3d space with the Holo
 The project is based on Unity 2020.3.22, MRTK2 and the [u2vis framework](https://github.com/imldresden/u2vis).
 
 ![In Editor Screenshot](Pictures/ScreenshotDataVisInEditor.png)
+![HoloLens Screenshot](Pictures/ScreenshotThroughHoloLens.png)
